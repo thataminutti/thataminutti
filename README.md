@@ -1,5 +1,5 @@
 - 👋 Olá, sou a Thaina Minutti
-- 🌱 Eu estou estudando HTML e CSS
+- 🌱 Conhecendo Angular, JS, HTML 
 - 💡  Meu Pronome é: Ela/Dela
 - 📫 Contate-me no email: thaina.cminutti@gmail.com
 
