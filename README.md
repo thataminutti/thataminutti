@@ -1,5 +1,4 @@
 - 👋 Olá, sou a Thaina Minutti
-- 🌱 Estudando Vue.Js, HTML, CSS e JS
-- 💻 Dev Front-end
+- 🌱 Estou no 4º semestre de Análise e Desenvolvimento de Sistemas.
+- 💻 No momento estou estudando HTML, CSS, JAVASCRIPT e Dados
 - 📫 Contate-me no email: thaina.cminutti@gmail.com
-
