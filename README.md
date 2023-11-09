@@ -1,4 +1,4 @@
 - 👋 Olá, sou a Thaina Minutti
 - 🌱 Estou no 4º semestre de Análise e Desenvolvimento de Sistemas.
-- 💻 No momento estou estudando HTML, CSS, JAVASCRIPT e Dados
+- 💻 Foco em HTML, CSS, JS, C# e C
 - 📫 Contate-me no email: thaina.cminutti@gmail.com
