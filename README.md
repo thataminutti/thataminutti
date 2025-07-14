@@ -1,4 +1,3 @@
 - 👋 Olá, sou a Thaina Minutti
 - 🌱 Sou formada em Análise e Desenvolvimento de Sistemas.
-- 💻 Foco em Dados.
 - 📫 Contate-me no email: thaina.cminutti@gmail.com
